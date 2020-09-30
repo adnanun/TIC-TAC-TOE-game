@@ -1,0 +1,42 @@
+body{
+    background-color:  #1f2326;
+}
+
+.title{
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 100px;
+}
+
+.jumbotron{
+    background-color:  #1f2326;
+}
+
+.cbs{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+    font-size: 70px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 10px;
+}
+
+form{
+   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            border-radius: 10px;
+            background-color:black;
+}
+
+.btn{
+    margin: 15px auto;
+}
+
+.main-container{
+    display: flex;
+    justify-content: center;
+}
